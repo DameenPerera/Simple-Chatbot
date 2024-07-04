@@ -1,4 +1,4 @@
-import nltk
+import nltk #pip install nltk
 from nltk.chat.util import Chat, reflections
 
 pairs = [
