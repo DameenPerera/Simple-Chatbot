@@ -1,2 +1,2 @@
 Simple Chatbot Programe 
-Made with AI
+Made with ChatGPT
